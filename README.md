@@ -24,8 +24,15 @@ Ubuntu 20.04 server
    $ catkin_make
    $ source ~/.bashrc
    ```
-  
+   
+実行方法
+---
 
+---
+   $ cd catkin_ws/src/mypkg/scripts
+   $ chmod +x input.py
+   $ chmod +x result.py
+   ---
 
 動画
 ---
