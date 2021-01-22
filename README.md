@@ -34,6 +34,21 @@ Ubuntu 20.04 server
    $ chmod +x result.py
    ```
 
+次に端末を3つ開きそれぞれで次のコマンドを打つ。
+
+1つ目
+```
+   $ roscore
+   ```
+   
+ ```
+   $ rosrun mypkg input.py
+   ```
+   
+ ```
+   $ rosrun mypkg result.py
+   ```
+
 動画
 ---
 https://youtu.be/l9GRMsLbqrM
