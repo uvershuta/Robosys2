@@ -69,4 +69,4 @@ publisherの端末に演算子、数字を入力するとsubscriberに答えが�
 
 ライセンス
 ---
-[GNU General Public License v3.0](https://github.com/uvershuta/RobotSystem1/blob/main/COPYING)
+(https://github.com/uvershuta/Robosys2/blob/main/LICENSE)
