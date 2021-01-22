@@ -36,18 +36,22 @@ Ubuntu 20.04 server
 
 次に端末を3つ開きそれぞれで次のコマンドを打つ。
 
-1つ目
+1.
 ```
    $ roscore
    ```
    
+2.publisher
  ```
    $ rosrun mypkg input.py
    ```
-   
+
+3.subscriber
  ```
    $ rosrun mypkg result.py
    ```
+   
+publisherの端末に演算子、数字を入力するとsubscriberに答えが出力されます。
 
 動画
 ---
