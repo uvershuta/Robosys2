@@ -63,7 +63,7 @@ publisherの端末に演算子、数字を入力するとsubscriberに答えが�
 
 動画
 ---
-
+https://youtu.be/ZBHJpawinfw
 
 ---
 
