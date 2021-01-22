@@ -28,11 +28,11 @@ Ubuntu 20.04 server
 実行方法
 ---
 
----
+```
    $ cd catkin_ws/src/mypkg/scripts
    $ chmod +x input.py
    $ chmod +x result.py
-   ---
+   ```
 
 動画
 ---
