@@ -69,4 +69,4 @@ publisherの端末に演算子、数字を入力するとsubscriberに答えが�
 
 ライセンス
 ---
-BSD 3-Clause "New" or "Revised" License (https://github.com/uvershuta/Robosys2/blob/main/LICENSE)
+[BSD 3-Clause "New" or "Revised" License] (https://github.com/uvershuta/Robosys2/blob/main/LICENSE)
